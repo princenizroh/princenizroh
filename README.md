@@ -1,7 +1,4 @@
-kontolku panjang
-kontolku lebar
-panjangnya 15cm
-lebarnya 3cm
+Samawa
 
 <!---
 princenizroh/princenizroh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
